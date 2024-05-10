@@ -1,6 +1,13 @@
-### Hi there 👋
+# About me.
 
+- I'm 54 years forever young at heart Ape currently learning GitHub, C++ programming language & networking.
+- I use Microsoft Visual Studio IDE for programming in C++.
+- I consider myself an Opsimath.
+- My hobbies include playing online chess, ping pong, book club, & exercise.
+- I will update this README as required.
+- So long for now.
 <!--
+
 **unmaintainablecode/unmaintainablecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
